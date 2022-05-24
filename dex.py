@@ -40,7 +40,7 @@ ADDRESS_COUNT = 0
 INDEX = 0
 
 # Your node URLs here
-URLS = ["https://ropsten.infura.io/v3/fd005d683d7b4a2681ba5f75db9cdc07"] 
+URLS = [""] 
 
 class Colors:
     cyan = "\033[0;36m"
